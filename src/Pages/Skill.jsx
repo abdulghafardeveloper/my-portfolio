@@ -14,6 +14,8 @@ export default function Skills() {
 
   return (
     <section id="skills" className="container mx-auto py-20 px-6">
+
+      
       <motion.h2
         className="text-3xl font-bold text-center mb-12"
         initial={{ opacity: 0, y: -30 }}
