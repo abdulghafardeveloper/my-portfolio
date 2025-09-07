@@ -12,8 +12,8 @@ export default function Navbar() {
     { id: "contact", label: "Contact" },
   ];
 
+// new commit 
 
-  
   useEffect(() => {
     const handleScrollSpy = () => {
       const sections = links.map((link) =>
